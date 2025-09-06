@@ -1,9 +1,7 @@
-
-
 <!-- Centered Header with corrected Dynamic Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Dhananjay+Suryavanshi;A+Developer+%26+Aspiring+ML+Engineer;Building+skills%2C+one+commit+at+a+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=87CEEB&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+Dhananjay+Suryavanshi;A+Developer+%26+Aspiring+ML+Engineer;Building+skills%2C+one+commit+at+a+time." alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,6 +55,14 @@
     <td align="center">
       <strong>Data Science & ML</strong><br><br>
       <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,rasa" alt="Data Science & ML"/>
+    </td>
+    <td align="center">
+      <strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="Databases"/>
+    </td>
+    <td align="center">
+      <strong>Web Scraping</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=selenium,beautifulsoup" alt="Web Scraping"/>
     </td>
     <td align="center">
       <strong>Developer Tools</strong><br><br>
